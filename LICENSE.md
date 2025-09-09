@@ -1,5 +1,11 @@
 Linea hacked wallets attached bot
 
+Sau 2 lần tạo ticket và đăng bài trên tw xin RPC LINEA thì mình vẫn bị từ chối nên mình check những ví bị gắn bot nguy hiểm không thể giải cứu nếu không có RPC, mình liệt kê các ví dưới đây, ae xem ae có tên không thì điền thông tin cho anh tây lông này @codeesura trên tw giải cứu vì anh ấy là người duy nhất xin được RPC từ dự án.
+
+Link: [Truy cập Whitehat – Felina Protocol](https://whitehat.felinaprotocol.org/?ref=trangchongcheng)
+
+Rất mong sẽ giải cứu được cho anh em
+
 
 ## List 1:
 
