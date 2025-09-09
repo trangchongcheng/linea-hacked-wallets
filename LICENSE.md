@@ -1,137 +1,138 @@
 Linea hacked wallets attached bot
 
 
-List 1:
+## List 1:
 
-- 12 { author: 'Cedrick Mondella', address: '0x3FD...02' }*13 { author: 'TNA', address: '0x200...7b' }
-- 14 { author: 'bucryto', address: '0x673...8f' }
-- 15 { author: 'Quang Kien', address: '0x3ae...d3' }
-- 16 { author: 'TNA', address: '0x85F...37' }
-- 17 { author: 'TNA', address: '0xc4E...e8' }
-- 18 { author: 'TNA', address: '0x91F...BF' }
-- 19 { author: 'Diablo', address: '0x0f5...30' }
-- 20 { author: 'TNA', address: '0x543...E7' }
-- 21 { author: 'TNA3', address: '0x331...29' }
-- 23 { author: 'nguyen huy', address: '0xB6b...4e' }
-- 24 { author: 'nguyen huy', address: '0x11D...5c' }
-- 25 { author: 'nguyen huy', address: '0x113...92' }
-- 26 { author: 'nguyen huy', address: '0xFF9...E6' }
-- 27 { author: 'nguyen huy', address: '0xDd9...4F' }
-- 28 { author: 'nguyen huy', address: '0x45D...3C' }
-- 29 { author: 'nguyen huy', address: '0xd76...79' }
-- 30 { author: 'nguyen huy', address: '0xcc0...82' }
-- 32 { author: 'nguyen huy', address: '0x018...eD' }
-- 33 { author: 'loki', address: '0xc4b...dc' }
-- 34 { author: 'TNA4', address: '0x3B2...49' }
-- 35 { author: 'TNA2', address: '0x0c7...f4' }
-- 36 { author: 'Luckystar', address: '0x2c1...57' }
-- 37 { author: 'TNA', address: '0x3B3...7F' }
-- 38 { author: 'LNTA', address: '0xa93...57' }
-- 39 { author: 'QuanTaDuck', address: '0xffe...b9' }
-- 40 { author: 'qbwdp', address: '0x9a7...78' }
-- 42 { author: 'x-crypto.tabi', address: '0x39b...02' }
-- 45 { author: 'TNA', address: '0x64e...60' }
-- 46 { author: 'TNA', address: '0x7A5...E7' }
-- 48 { author: 'Researcher', address: '0xf09...ba' }
-- 49 { author: 'TNA5', address: '0x8A5...73' }
-- 50 { author: 'TNA', address: '0x572...e2' }
-- 51 { author: 'Kabinz', address: '0x04d...16' }
-- 52 { author: 'Hung Tran', address: '0xf55...c8' }
-- 54 { author: 'xxx$x', address: '0x238...2f' }
-- 55 { author: 'Kizzz12114', address: '0x151...09' }
-- 57 { author: 'TNA', address: '0x3FC...9d' }
-- 58 { author: 'TNA', address: '0xBac...80' }
-- 59 { author: 'TNA', address: '0xabc...fE' }
-- 69 { author: 'Starvikx', address: '0x928...4e' }
-- 70 { author: 'Starvikx', address: '0x928...4e' }
-- 74 { author: 'metaswapper', address: '0x9C4...34' }
-- 77 { author: 'Tiger Bạc', address: '0xb16...30' }
-- 102 { author: 'Cin999999', address: '0xdD6...fa' }
-- 111 { author: 'Alibhaixxx', address: '0x2eE...40' }
-- 113 { author: 'dragon Pawtato ', address: '0x741...ff' }
-- 115 { author: 'Blackxreaperx', address: '0x899...f5' }
-- 118 { author: 'Lucky Monee', address: '0xff2...f4' }
-- 124 { author: 'Cin999999', address: '0xA5f...9B' }
-- 127 { author: 'Cin999999', address: '0x3A6...e2' }
-- 128 { author: 'Cin999999', address: '0xCDE...19' }
-- 131 { author: 'mknayak123', address: '0xFfD...59' }
-- 136 { author: 'Uta Utama', address: '0xee1...72' }
-- 137 { author: 'Hồng Nguyễn tw', address: '0x923...D7' }
-- 142 { author: 'Ho', address: '0x09F...28' }
-- 144 { author: 'TSJ tw ', address: '0x1CD...38' }
-- 145 { author: 'Tưởng', address: '0x445...0f' }
-- 146 { author: 'Ho', address: '0x43f...89' }
-- 147 { author: 'Thành', address: '0x079...e2' }
-- 151 { author: 'Ho', address: '0x8bd...82' }
+- 2 { author: 'Kiều Crypro', address: '0xd2c...8283a6d' }
+- 3 { author: 'Tung bui ngoc1', address: '0x0aC...c6a6881' }
+- 4 { author: 'Mac le', address: '0x1dd...984c96e' }
+- 5 { author: 'adam han', address: '0x1F2...012BaAf' }
+- 6 { author: 'Tung bui ngoc3', address: '0xba9...873E5A0' }
+- 7 { author: 'hoan hỷ', address: '0xd80...6a21752' }
+- 8 { author: 'Tung bui ngoc2', address: '0x8A3...0454230' }
+- 9 { author: 'Tomas', address: '0x65e...d7f3be5' }
+1- 0 { author: 'bachai1', address: '0x838...a2e9727' }
+1- 1 { author: 'tomas', address: '0x6eb...04502f6' }
+1- 2 { author: 'Cedrick Mondella', address: '0x3FD...793c202' }
+1- 3 { author: 'TNA', address: '0x200...0021E7b' }
+1- 4 { author: 'bucryto', address: '0x673...af0be8f' }
+1- 5 { author: 'Quang Kien', address: '0x3ae...10eD4d3' }
+1- 6 { author: 'TNA', address: '0x85F...1A71b37' }
+1- 7 { author: 'TNA', address: '0xc4E...12c3Be8' }
+1- 8 { author: 'TNA', address: '0x91F...30df9BF' }
+1- 9 { author: 'Diablo', address: '0x0f5...94A2b30' }
+2- 0 { author: 'TNA', address: '0x543...22ED4E7' }
+2- 1 { author: 'TNA3', address: '0x331...72D9A29' }
+2- 3 { author: 'nguyen huy', address: '0xB6b...1F0d54e' }
+2- 4 { author: 'nguyen huy', address: '0x11D...3a87F5c' }
+2- 5 { author: 'nguyen huy', address: '0x113...a4a9192' }
+2- 6 { author: 'nguyen huy', address: '0xFF9...a9541E6' }
+2- 7 { author: 'nguyen huy', address: '0xDd9...DAF594F' }
+2- 8 { author: 'nguyen huy', address: '0x45D...C925B3C' }
+2- 9 { author: 'nguyen huy', address: '0xd76...34fEe79' }
+3- 0 { author: 'nguyen huy', address: '0xcc0...9476682' }
+3- 2 { author: 'nguyen huy', address: '0x018...6Ca63eD' }
+3- 3 { author: 'loki', address: '0xc4b...c8bcddc' }
+3- 4 { author: 'TNA4', address: '0x3B2...C3b7A49' }
+3- 5 { author: 'TNA2', address: '0x0c7...3741df4' }
+3- 6 { author: 'Luckystar', address: '0x2c1...cc72457' }
+3- 7 { author: 'TNA', address: '0x3B3...597937F' }
+3- 8 { author: 'LNTA', address: '0xa93...b3fec57' }
+3- 9 { author: 'QuanTaDuck', address: '0xffe...a7c37b9' }
+4- 0 { author: 'qbwdp', address: '0x9a7...27C3E78' }
+4- 2 { author: 'x-crypto.tabi', address: '0x39b...57eca02' }
+4- 5 { author: 'TNA', address: '0x64e...6571360' }
+4- 6 { author: 'TNA', address: '0x7A5...321B2E7' }
+4- 8 { author: 'Researcher', address: '0xf09...812BBba' }
+4- 9 { author: 'TNA5', address: '0x8A5...ca9F973' }
+5- 0 { author: 'TNA', address: '0x572...08593e2' }
+5- 1 { author: 'Kabinz', address: '0x04d...CFa9716' }
+5- 2 { author: 'Hung Tran', address: '0xf55...d8fb2c8' }
+5- 4 { author: 'xxx$x', address: '0x238...2d22f2f' }
+5- 5 { author: 'Kizzz12114', address: '0x151...7ea8909' }
+5- 7 { author: 'TNA', address: '0x3FC...D3A389d' }
+5- 8 { author: 'TNA', address: '0xBac...5759580' }
+5- 9 { author: 'TNA', address: '0xabc...2e5cefE' }
+6- 2 { author: 'Đức', address: '0x913...c49e65d' }
+6- 3 { author: 'Starvikx', address: '0x52e...e963920' }
+6- 5 { author: 'Thành', address: '0x538...f9A5922' }
+6- 9 { author: 'Starvikx', address: '0x928...76d8d4e' }
+7- 0 { author: 'Starvikx', address: '0x928...76d8d4e' }
+7- 4 { author: 'metaswapper', address: '0x9C4...9Cad434' }
+7- 7 { author: 'Tiger Bạc', address: '0xb16...8bc5930' }
+8- 5 { author: 'Đức', address: '0x84D...439E175' }
+10- 2 { author: 'Cin999999', address: '0xdD6...055fefa' }
+11- 1 { author: 'Alibhaixxx', address: '0x2eE...90EFB40' }
+11- 5 { author: 'Blackxreaperx', address: '0x899...fdACFf5' }
+12- 7 { author: 'Cin999999', address: '0x3A6...BB543e2' }
+12- 8 { author: 'Cin999999', address: '0xCDE...5707919' }
+13- 1 { author: 'mknayak123', address: '0xFfD...6DEf959' }
+13- 7 { author: 'Hồng Nguyễn tw', address: '0x923...c147dD7' }
+14- 4 { author: 'TSJ tw ', address: '0x1CD...40D1538' }
+14- 5 { author: 'Tưởng', address: '0x445...f7e510f' }
+14- 7 { author: 'Thành', address: '0x079...99458e2' }
 
-List 2:
 
+## List 2
 
-- 2 { balance: 0n, author: 'Kiều Crypro', address: '0xd2c...6d' }
-- 3 { balance: 0n, author: 'Tung bui ngoc1', address: '0x0aC...81' }
-- 4 { balance: 0n, author: 'Mac le', address: '0x1dd...6e' }
-- 5 { balance: 0n, author: 'adam han', address: '0x1F2...Af' }
-- 6 { balance: 0n, author: 'Tung bui ngoc3', address: '0xba9...A0' }
-- 7 { balance: 0n, author: 'hoan hỷ', address: '0xd80...52' }
-- 8 { balance: 0n, author: 'Tung bui ngoc2', address: '0x8A3...30' }
-- 9 { balance: 0n, author: 'Tomas', address: '0x65e...e5' }
-- 10 { balance: 0n, author: 'bachai1', address: '0x838...27' }
-- 11 { balance: 0n, author: 'tomas', address: '0x6eb...f6' }
-- 12 { balance: 0n, author: 'Cedrick Mondella', address: '0x3FD...02' }
-- 13 { balance: 0n, author: 'TNA', address: '0x200...7b' }
-- 14 { balance: 0n, author: 'bucryto', address: '0x673...8f' }
-- 15 { balance: 0n, author: 'Quang Kien', address: '0x3ae...d3' }
-- 16 { balance: 0n, author: 'TNA', address: '0x85F...37' }
-- 17 { balance: 0n, author: 'TNA', address: '0xc4E...e8' }
-- 18 { balance: 0n, author: 'TNA', address: '0x91F...BF' }
-- 19 { balance: 0n, author: 'Diablo', address: '0x0f5...30' }
-- 20 { balance: 0n, author: 'TNA', address: '0x543...E7' }
-- 21 { balance: 0n, author: 'TNA3', address: '0x331...29' }
-- 23 { balance: 0n, author: 'nguyen huy', address: '0xB6b...4e' }
-- 24 { balance: 0n, author: 'nguyen huy', address: '0x11D...5c' }
-- 25 { balance: 0n, author: 'nguyen huy', address: '0x113...92' }
-- 26 { balance: 0n, author: 'nguyen huy', address: '0xFF9...E6' }
-- 27 { balance: 0n, author: 'nguyen huy', address: '0xDd9...4F' }
-- 28 { balance: 0n, author: 'nguyen huy', address: '0x45D...3C' }
-- 29 { balance: 0n, author: 'nguyen huy', address: '0xd76...79' }
-- 30 { balance: 0n, author: 'nguyen huy', address: '0xcc0...82' }
-- 32 { balance: 0n, author: 'nguyen huy', address: '0x018...eD' }
-- 33 { balance: 0n, author: 'loki', address: '0xc4b...dc' }
-- 34 { balance: 0n, author: 'TNA4', address: '0x3B2...49' }
-- 35 { balance: 0n, author: 'TNA2', address: '0x0c7...f4' }
-- 36 { balance: 0n, author: 'Luckystar', address: '0x2c1...57' }
-- 37 { balance: 0n, author: 'TNA', address: '0x3B3...7F' }
-- 38 { balance: 0n, author: 'LNTA', address: '0xa93...57' }
-- 39 { balance: 0n, author: 'QuanTaDuck', address: '0xffe...b9' }
-- 40 { balance: 0n, author: 'qbwdp', address: '0x9a7...78' }
-- 42 { balance: 0n, author: 'x-crypto.tabi', address: '0x39b...02' }
-- 45 { balance: 0n, author: 'TNA', address: '0x64e...60' }
-- 46 { balance: 0n, author: 'TNA', address: '0x7A5...E7' }
-- 48 { balance: 0n, author: 'Researcher', address: '0xf09...ba' }
-- 49 { balance: 0n, author: 'TNA5', address: '0x8A5...73' }
-- 50 { balance: 0n, author: 'TNA', address: '0x572...e2' }
-- 51 { balance: 0n, author: 'Kabinz', address: '0x04d...16' }
-- 52 { balance: 0n, author: 'Hung Tran', address: '0xf55...c8' }
-- 54 { balance: 0n, author: 'xxx$x', address: '0x238...2f' }
-- 55 { balance: 0n, author: 'Kizzz12114', address: '0x151...09' }
-- 57 { balance: 0n, author: 'TNA', address: '0x3FC...9d' }
-- 58 { balance: 0n, author: 'TNA', address: '0xBac...80' }
-- 59 { balance: 0n, author: 'TNA', address: '0xabc...fE' }
-- 62 { balance: 0n, author: 'Đức', address: '0x913...5d' }
-- 63 { balance: 0n, author: 'Starvikx', address: '0x52e...20' }
-- 65 { balance: 0n, author: 'Thành', address: '0x538...22' }
-- 69 { balance: 0n, author: 'Starvikx', address: '0x928...4e' }
-- 70 { balance: 0n, author: 'Starvikx', address: '0x928...4e' }
-- 74 { balance: 0n, author: 'metaswapper', address: '0x9C4...34' }
-- 77 { balance: 0n, author: 'Tiger Bạc', address: '0xb16...30' }
-- 85 { balance: 0n, author: 'Đức', address: '0x84D...75' }
-- 102 { balance: 0n, author: 'Cin999999', address: '0xdD6...fa' }
-- 111 { balance: 0n, author: 'Alibhaixxx', address: '0x2eE...40' }
-- 115 { balance: 0n, author: 'Blackxreaperx', address: '0x899...f5' }
-- 127 { balance: 0n, author: 'Cin999999', address: '0x3A6...e2' }
-- 128 { balance: 0n, author: 'Cin999999', address: '0xCDE...19' }
-- 131 { balance: 0n, author: 'mknayak123', address: '0xFfD...59' }
-- 137 { balance: 0n, author: 'Hồng Nguyễn tw', address: '0x923...D7' }
-- 144 { balance: 0n, author: 'TSJ tw ', address: '0x1CD...38' }
-- 145 { balance: 0n, author: 'Tưởng', address: '0x445...0f' }
-- 147 { balance: 0n, author: 'Thành', address: '0x079...e2' }
+1- 2 { author: 'Cedrick Mondella', address: '0x3FD...793c202' }
+1- 3 { author: 'TNA', address: '0x200...0021E7b' }
+1- 4 { author: 'bucryto', address: '0x673...af0be8f' }
+1- 5 { author: 'Quang Kien', address: '0x3ae...10eD4d3' }
+1- 6 { author: 'TNA', address: '0x85F...1A71b37' }
+1- 7 { author: 'TNA', address: '0xc4E...12c3Be8' }
+1- 8 { author: 'TNA', address: '0x91F...30df9BF' }
+1- 9 { author: 'Diablo', address: '0x0f5...94A2b30' }
+2- 0 { author: 'TNA', address: '0x543...22ED4E7' }
+2- 1 { author: 'TNA3', address: '0x331...72D9A29' }
+2- 3 { author: 'nguyen huy', address: '0xB6b...1F0d54e' }
+2- 4 { author: 'nguyen huy', address: '0x11D...3a87F5c' }
+2- 5 { author: 'nguyen huy', address: '0x113...a4a9192' }
+2- 6 { author: 'nguyen huy', address: '0xFF9...a9541E6' }
+2- 7 { author: 'nguyen huy', address: '0xDd9...DAF594F' }
+2- 8 { author: 'nguyen huy', address: '0x45D...C925B3C' }
+2- 9 { author: 'nguyen huy', address: '0xd76...34fEe79' }
+3- 0 { author: 'nguyen huy', address: '0xcc0...9476682' }
+3- 2 { author: 'nguyen huy', address: '0x018...6Ca63eD' }
+3- 3 { author: 'loki', address: '0xc4b...c8bcddc' }
+3- 4 { author: 'TNA4', address: '0x3B2...C3b7A49' }
+3- 5 { author: 'TNA2', address: '0x0c7...3741df4' }
+3- 6 { author: 'Luckystar', address: '0x2c1...cc72457' }
+3- 7 { author: 'TNA', address: '0x3B3...597937F' }
+3- 8 { author: 'LNTA', address: '0xa93...b3fec57' }
+3- 9 { author: 'QuanTaDuck', address: '0xffe...a7c37b9' }
+4- 0 { author: 'qbwdp', address: '0x9a7...27C3E78' }
+4- 2 { author: 'x-crypto.tabi', address: '0x39b...57eca02' }
+4- 5 { author: 'TNA', address: '0x64e...6571360' }
+4- 6 { author: 'TNA', address: '0x7A5...321B2E7' }
+4- 8 { author: 'Researcher', address: '0xf09...812BBba' }
+4- 9 { author: 'TNA5', address: '0x8A5...ca9F973' }
+5- 0 { author: 'TNA', address: '0x572...08593e2' }
+5- 1 { author: 'Kabinz', address: '0x04d...CFa9716' }
+5- 2 { author: 'Hung Tran', address: '0xf55...d8fb2c8' }
+5- 4 { author: 'xxx$x', address: '0x238...2d22f2f' }
+5- 5 { author: 'Kizzz12114', address: '0x151...7ea8909' }
+5- 7 { author: 'TNA', address: '0x3FC...D3A389d' }
+5- 8 { author: 'TNA', address: '0xBac...5759580' }
+5- 9 { author: 'TNA', address: '0xabc...2e5cefE' }
+6- 9 { author: 'Starvikx', address: '0x928...76d8d4e' }
+7- 0 { author: 'Starvikx', address: '0x928...76d8d4e' }
+7- 4 { author: 'metaswapper', address: '0x9C4...9Cad434' }
+7- 7 { author: 'Tiger Bạc', address: '0xb16...8bc5930' }
+10- 2 { author: 'Cin999999', address: '0xdD6...055fefa' }
+11- 1 { author: 'Alibhaixxx', address: '0x2eE...90EFB40' }
+11- 3 { author: 'dragon Pawtato ', address: '0x741...3a7aeff' }
+11- 5 { author: 'Blackxreaperx', address: '0x899...fdACFf5' }
+11- 8 { author: 'Lucky Monee', address: '0xff2...18652f4' }
+12- 4 { author: 'Cin999999', address: '0xA5f...30e2E9B' }
+12- 7 { author: 'Cin999999', address: '0x3A6...BB543e2' }
+12- 8 { author: 'Cin999999', address: '0xCDE...5707919' }
+13- 1 { author: 'mknayak123', address: '0xFfD...6DEf959' }
+13- 6 { author: 'Uta Utama', address: '0xee1...b55fb72' }
+13- 7 { author: 'Hồng Nguyễn tw', address: '0x923...c147dD7' }
+14- 2 { author: 'Ho', address: '0x09F...6b0b628' }
+14- 4 { author: 'TSJ tw ', address: '0x1CD...40D1538' }
+14- 5 { author: 'Tưởng', address: '0x445...f7e510f' }
+14- 6 { author: 'Ho', address: '0x43f...1B47089' }
+14- 7 { author: 'Thành', address: '0x079...99458e2' }
+15- 1 { author: 'Ho', address: '0x8bd...b029082' }
