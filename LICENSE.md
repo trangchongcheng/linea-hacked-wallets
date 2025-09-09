@@ -3,8 +3,8 @@ Linea hacked wallets attached bot
 
 List 1:
 
-12 { author: 'Cedrick Mondella', address: '0x3FD...02' }
-13 { author: 'TNA', address: '0x200...7b' }
+*12 { author: 'Cedrick Mondella', address: '0x3FD...02' }
+*13 { author: 'TNA', address: '0x200...7b' }
 14 { author: 'bucryto', address: '0x673...8f' }
 15 { author: 'Quang Kien', address: '0x3ae...d3' }
 16 { author: 'TNA', address: '0x85F...37' }
